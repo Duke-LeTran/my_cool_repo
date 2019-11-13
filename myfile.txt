@@ -1,4 +1,4 @@
 This is my special new file
 I'm adding a line
-
+Another one.
 
