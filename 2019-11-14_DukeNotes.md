@@ -46,8 +46,6 @@ git push -u origin master
 # git push --set-upstream origin master
 ```
 
-## Git 
-```
 
 # II. Git Clone
 ```{bash}
